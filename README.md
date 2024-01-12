@@ -9,10 +9,10 @@
 
 <div align="center">
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akhilkumariitkgp&show_icons=true&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&hide_rank=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akhil-iitkgp&show_icons=true&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&hide_rank=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkumariitkgp&langs_count=5&layout=compact&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-iitkgp&langs_count=5&layout=compact&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
 </div> 
 
@@ -61,6 +61,6 @@
 
 # Akhil Kumar
 
-## Software Developer | Data Science | Product Devloper
+## Software Developer | Innovator | Problem Solver
 
-Welcome to my world of innovation and problem-solving! 🌟 I'm Akhil Kumar, a civil engineering student at IIT Kharagpur with a passion for software development. Dive into my experiences and projects
+Welcome to my world of innovation and problem-solving! 🌟 I'm Akhil Kumar, a civil engineering student at IIT Kharagpur with a passion for software development. Dive into my experiences and projects that showcase my coding skills and innovative thinking.
