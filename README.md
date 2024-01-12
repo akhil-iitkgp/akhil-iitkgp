@@ -39,8 +39,6 @@
     <a href="#">
       <img align="center" alt="React Logo" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Django Logo" height="30" width="40" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
     </a>
   </p>
 </div>
@@ -50,7 +48,7 @@
 
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/akhiliitkgp/"><img height="35" width="140" title="linkedin.com/in/akhiliitkgp" src="./img/linkedin.png">
+    <a href="https://www.linkedin.com/in/akhiliitkgp/"><img height="35" width="140" title="linkedin.com/in/akhiliitkgp" src="./linkedin.png">
     </a>
   </p>
 </div>
