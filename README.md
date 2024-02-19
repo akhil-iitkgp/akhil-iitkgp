@@ -69,14 +69,14 @@ Welcome to my world of innovation and problem-solving! 🌟 I'm Akhil Kumar, stu
 
 ## 💡 Skills
 
-- **Programming: Python, C++, JavaScript
-- **Web Development: Node.js, React.js,Ex[press.js, HTML, CSS, Tailwind
-- **Database: SQLite, MySQL, MongoDB
-- **Frameworks:ReactJS, Express.js
-- **Version Control: Git, GitHub
-- **Cloud Services: Amazon Web Services (AWS)
-- **Problem Solving: Algorithms, Data Structures
-- **UI/UX Design: Adobe XD
+- **Programming**: Python, C++, JavaScript
+- **Web Development**: Node.js, React.js,Ex[press.js, HTML, CSS, Tailwind
+- **Database**: SQLite, MySQL, MongoDB
+- **Frameworks**:ReactJS, Express.js
+- **Version Control**: Git, GitHub
+- **Cloud Services**: Amazon Web Services (AWS)
+- **Problem Solving**: Algorithms, Data Structures
+- **UI/UX Design**: Adobe XD
 
 ## Experience
 
@@ -112,6 +112,6 @@ As a Supply Chain Analyst Intern in July 2021 - August 2021, I contributed to st
 
 ## 🤝 Let's Connect
 
-I'm always looking to collaborate on innovative projects and share knowledge with like-minded individuals. Feel free to reach out to me on [LinkedIn](linkedin.com/in/akhiliitkgp/) | [Gmail](akhilkgpiit@gmail.com)
+I'm always looking to collaborate on innovative projects and share knowledge with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akhiliitkgp/) | [Gmail](akhilkgpiit@gmail.com)
 
 
